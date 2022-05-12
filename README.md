@@ -1,2 +1,4 @@
-# douyin-subway-game
-抖音挤地铁game
+# 抖音直播弹幕互动软件
+抖音挤地铁game，其余云蹦迪 挤地铁 冲马桶 抖音弹幕游戏程序 tiktok等程序可进群交流免费获取
+
+![img_1.png](img_1.png)
